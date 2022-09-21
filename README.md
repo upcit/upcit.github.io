@@ -14,9 +14,6 @@
 
 [保研竞赛专栏](https://upcit.github.io/js/js)
 
-3.UPC保研公示文件
-
-[保研公示专栏](https://upcit.github.io/gs/gs)
 
 4.UPC转专业专栏
 
@@ -30,9 +27,6 @@
 
 [通知](https://upcit.github.io/tz/tz)
 
-7.本站名人堂
-
-[名人堂](https://upcit.github.io/mrt/mrt)
 
 8.本站公约
 
