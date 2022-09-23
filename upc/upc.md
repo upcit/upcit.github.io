@@ -4,12 +4,16 @@
 
 2022年学校核心竞赛名单
 
-地址：http://itp.upc.edu.cn/2022/0405/c651a238248/page.htm
+地址：[http://itp.upc.edu.cn/2022/0405/c651a238248/page.htm](http://itp.upc.edu.cn/2022/0405/c651a238248/page.htm)
+
 
 中国石油大学（华东）研究生招生网站主页
 
-地址：http://zs.gs.upc.edu.cn/2022/0902/c10709a383090/page.htm
+
+地址：[http://zs.gs.upc.edu.cn/2022/0902/c10709a383090/page.htm](http://zs.gs.upc.edu.cn/2022/0902/c10709a383090/page.htm)
+
 
 中国石油大学（华东）通知公告常用网站
 
-地址：http://jwc.upc.edu.cn/
+
+地址：[http://jwc.upc.edu.cn/](http://jwc.upc.edu.cn/)
